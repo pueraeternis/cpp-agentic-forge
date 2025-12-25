@@ -1,7 +1,7 @@
 [project]
 name = "cpp-agentic-forge"
 version = "0.1.0"
-description = "Add your description here"
+description = "An autonomous multi-agent system orchestrating LLMs to plan, generate, compile, and self-repair production-ready C++ code."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
